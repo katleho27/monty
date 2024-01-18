@@ -1,7 +1,7 @@
 #include "monty.h"
 /**
- * f_mod - computes the rest of the division of the second
- * top element of the stack by the top element of the stack
+ * f_mod - computers the rest of the division in the second
+ * top element of the stack by the above element of the stack
  * @head: stack head
  * @counter: line_number
  * Return: no return
